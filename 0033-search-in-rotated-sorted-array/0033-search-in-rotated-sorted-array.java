@@ -8,10 +8,10 @@ class Solution {
             if(nums[mid]==target) return mid;
 
             if(nums[beg]<=nums[mid]){
-                if(nums[beg]<=target && target<=nums[mid]) end=mid-1;
+                if(nums[beg]<=target && target<nums[mid]) end=mid-1;
                 else beg=mid+1;
             }else{
-                if(nums[mid]<=target && target<=nums[end]) beg=mid+1;
+                if(nums[mid]<target && target<=nums[end]) beg=mid+1;
                 else end=mid-1;
             }
         }
