@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0059-spiral-matrix-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -81,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
