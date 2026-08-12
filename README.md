@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0404-sum-of-left-leaves) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
