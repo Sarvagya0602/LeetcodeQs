@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0200-number-of-islands) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0695-max-area-of-island) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0547-number-of-provinces) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0547-number-of-provinces) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0695-max-area-of-island) |
