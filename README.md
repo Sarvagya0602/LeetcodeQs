@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0054-spiral-matrix) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0078-subsets) |
