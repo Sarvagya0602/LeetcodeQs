@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0283-move-zeroes) |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
