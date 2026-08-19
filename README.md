@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0050-powx-n) |
 ## Combinatorics
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0061-rotate-list) |
 ## Newton's Method
 |  |
