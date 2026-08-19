@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0079-word-search) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0257-binary-tree-paths) |
@@ -188,12 +189,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0404-sum-of-left-leaves) |
 ## Recursion
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Newton's Method
 |  |
 | ------- |
@@ -226,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
