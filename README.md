@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0240-search-a-2d-matrix-ii) |
 ## Quicksort
 |  |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0061-rotate-list) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
