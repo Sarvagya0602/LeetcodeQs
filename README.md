@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0283-move-zeroes) |
 | [0695-max-area-of-island](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
 ## Matrix
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -234,4 +237,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
