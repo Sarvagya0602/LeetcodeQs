@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0283-move-zeroes) |
 | [0695-max-area-of-island](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0695-max-area-of-island) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
