@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0200-number-of-islands) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
 ## Sorting
 |  |
