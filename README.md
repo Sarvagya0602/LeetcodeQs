@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
+| [2485-find-the-pivot-integer](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2485-find-the-pivot-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -261,5 +262,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
