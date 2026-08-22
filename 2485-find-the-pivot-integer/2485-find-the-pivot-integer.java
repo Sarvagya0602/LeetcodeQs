@@ -4,8 +4,8 @@ class Solution {
         if(n==1) return 1;
         for(int i=0;i<n;i++){
             prefix+=i;
+            if(prefix==suffix) return i;
             suffix-=i;
-            if(prefix==suffix+i) return i;
         }
         return -1;
     }
