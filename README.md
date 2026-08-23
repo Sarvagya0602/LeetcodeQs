@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0303-range-sum-query-immutable) |
 | [0695-max-area-of-island](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0733-flood-fill) |
@@ -262,9 +263,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2574-left-and-right-sum-differences) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
