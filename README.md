@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0036-valid-sudoku) |
+| [0142-linked-list-cycle-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0229-majority-element-ii) |
 ## Two Pointers
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0283-move-zeroes) |
 ## Math
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0142-linked-list-cycle-ii) |
 ## Newton's Method
 |  |
 | ------- |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0303-range-sum-query-immutable) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
