@@ -9,16 +9,6 @@
  * }
  */
 class Solution {
-    //middle of linked list
-    static ListNode middleNode(ListNode head){
-        ListNode sp=head,fp=head.next;
-        while(fp!=null && fp.next!=null){
-            sp=sp.next;
-            fp=fp.next.next;
-        }
-        return sp;
-    }
-
     //merge 2 lists
     static ListNode mergeList(ListNode lefthead,ListNode righthead){
         if(righthead==null) return lefthead;
@@ -33,9 +23,13 @@ class Solution {
     }
     public ListNode sortList(ListNode head) {
         if(head==null || head.next==null) return head;
-        ListNode middle=middleNode(head);
-        ListNode rightNode=sortList(middle.next);
-        middle.next=null;
+        ListNode sp=head,fp=head.next;
+        while(fp!=null && fp.next!=null){
+            sp=sp.next;
+            fp=fp.next.next;
+        }
+        ListNode rightNode=sortList(sp.next);
+        sp.next=null;
         ListNode leftNode=sortList(head);
         return mergeList(leftNode,rightNode);
     }
