@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0283-move-zeroes) |
 ## Math
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0148-sort-list) |
 ## Newton's Method
 |  |
 | ------- |
@@ -285,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
