@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0119-pascals-triangle-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0283-move-zeroes) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
