@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0054-spiral-matrix) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0088-merge-sorted-array) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0062-unique-paths) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Minimax
 |  |
@@ -301,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
