@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0148-sort-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Newton's Method
 |  |
 | ------- |
