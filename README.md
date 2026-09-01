@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0102-binary-tree-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0404-sum-of-left-leaves) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0257-binary-tree-paths) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0257-binary-tree-paths) |
