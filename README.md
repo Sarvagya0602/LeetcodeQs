@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0240-search-a-2d-matrix-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0229-majority-element-ii) |
 | [3731-find-missing-elements](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
@@ -333,4 +336,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
