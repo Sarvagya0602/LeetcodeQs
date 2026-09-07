@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0202-happy-number) |
+| [0728-self-dividing-numbers](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
 | [2485-find-the-pivot-integer](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2485-find-the-pivot-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
