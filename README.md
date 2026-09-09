@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0202-happy-number) |
 | [0728-self-dividing-numbers](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1137-n-th-tribonacci-number) |
 | [2485-find-the-pivot-integer](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2485-find-the-pivot-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3870-count-commas-in-range) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1137-n-th-tribonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -371,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
