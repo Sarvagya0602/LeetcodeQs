@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0412-fizz-buzz) |
 | [4020-elevator-requests-i](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/4020-elevator-requests-i) |
 ## Binary Search
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0412-fizz-buzz) |
 ## Depth-First Search
 |  |
 | ------- |
