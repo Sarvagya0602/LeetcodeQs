@@ -1,0 +1,12 @@
+class Solution {
+    public int fib(int n) {
+        if(n<=1) return n;
+        int[] fibn=new int[n+1];
+        fibn[0]=0;
+        fibn[1]=1;
+
+        for(int i=2;i<n+1;i++)
+            fibn[i]=fibn[i-1]+fibn[i-2];
+        return fibn[n];
+    }
+}
