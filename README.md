@@ -408,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
