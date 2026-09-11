@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0075-sort-colors) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0125-valid-palindrome) |
@@ -390,4 +392,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1137-n-th-tribonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
