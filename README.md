@@ -48,6 +48,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0733-flood-fill](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1480-running-sum-of-1d-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1732-find-the-highest-altitude) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -133,6 +134,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0409-longest-palindrome](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
 |  |
@@ -164,6 +166,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0229-majority-element-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [3731-find-missing-elements](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -391,6 +394,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0215-kth-largest-element-in-an-array) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Quickselect
 |  |
 | ------- |
