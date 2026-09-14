@@ -44,6 +44,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0695-max-area-of-island](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0733-flood-fill) |
+| [0832-flipping-an-image](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1732-find-the-highest-altitude) |
@@ -86,6 +87,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0189-rotate-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +122,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0240-search-a-2d-matrix-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0733-flood-fill) |
+| [0832-flipping-an-image](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -182,6 +185,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0059-spiral-matrix-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0832-flipping-an-image) |
 | [4020-elevator-requests-i](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/4020-elevator-requests-i) |
 ## Binary Search
 |  |
@@ -211,6 +215,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | ------- |
 | [0067-add-binary](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0078-subsets) |
+| [0832-flipping-an-image](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
