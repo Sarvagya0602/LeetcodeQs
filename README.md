@@ -43,6 +43,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0303-range-sum-query-immutable](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0733-flood-fill) |
@@ -134,6 +135,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0409-longest-palindrome](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0646-maximum-length-of-pair-chain) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
@@ -150,6 +152,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0152-maximum-product-subarray](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1137-n-th-tribonacci-number) |
 ## Sorting
@@ -166,6 +169,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0229-majority-element-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0646-maximum-length-of-pair-chain) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [3731-find-missing-elements](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -428,4 +432,8 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0511-game-play-analysis-i) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
