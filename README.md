@@ -279,6 +279,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0743-network-delay-time](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Union-Find
 |  |
 | ------- |
@@ -294,6 +295,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0743-network-delay-time](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Tree
 |  |
 | ------- |
