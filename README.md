@@ -258,6 +258,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0695-max-area-of-island](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -273,6 +274,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0695-max-area-of-island](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
@@ -286,6 +288,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
 ## Tree
 |  |
@@ -400,6 +403,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0743-network-delay-time](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0743-network-delay-time) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Quickselect
 |  |
@@ -438,4 +442,12 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0646-maximum-length-of-pair-chain) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
