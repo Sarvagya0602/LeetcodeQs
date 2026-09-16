@@ -155,6 +155,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0435-non-overlapping-intervals](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0646-maximum-length-of-pair-chain) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1137-n-th-tribonacci-number) |
 ## Sorting
@@ -260,6 +261,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0733-flood-fill](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -276,6 +278,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0733-flood-fill](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Union-Find
 |  |
 | ------- |
@@ -290,6 +293,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0547-number-of-provinces](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Tree
 |  |
 | ------- |
@@ -404,6 +408,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0743-network-delay-time](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Quickselect
 |  |
@@ -446,6 +451,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
