@@ -93,6 +93,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0189-rotate-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
@@ -153,6 +154,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0646-maximum-length-of-pair-chain) |
@@ -246,6 +248,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0079-word-search](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0412-fizz-buzz) |
 ## Depth-First Search
