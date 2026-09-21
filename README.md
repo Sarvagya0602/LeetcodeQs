@@ -16,6 +16,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0041-first-missing-positive](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0055-jump-game) |
@@ -98,6 +99,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0066-plus-one) |
@@ -120,6 +122,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0064-minimum-path-sum) |
