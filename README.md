@@ -44,6 +44,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0283-move-zeroes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0695-max-area-of-island) |
@@ -73,6 +74,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0202-happy-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3731-find-missing-elements) |
 ## Two Pointers
