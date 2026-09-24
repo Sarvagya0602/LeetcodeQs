@@ -58,6 +58,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [1732-find-the-highest-altitude](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1732-find-the-highest-altitude) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2574-left-and-right-sum-differences) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3875-construct-uniform-parity-array-i) |
@@ -116,6 +117,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1137-n-th-tribonacci-number) |
 | [2485-find-the-pivot-integer](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2485-find-the-pivot-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3871-count-commas-in-range-ii) |
