@@ -288,6 +288,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0743-network-delay-time](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0886-possible-bipartition](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0886-possible-bipartition) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -306,6 +307,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0886-possible-bipartition](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0886-possible-bipartition) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Union-Find
 |  |
@@ -315,6 +317,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0547-number-of-provinces](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0886-possible-bipartition) |
 ## Graph Theory
 |  |
 | ------- |
@@ -323,6 +326,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0886-possible-bipartition](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0886-possible-bipartition) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Tree
@@ -364,10 +368,12 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0886-possible-bipartition) |
 ## Linked List
 |  |
 | ------- |
