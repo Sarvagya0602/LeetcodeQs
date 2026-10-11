@@ -55,6 +55,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0832-flipping-an-image](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
 | [0943-find-the-shortest-superstring](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0943-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0980-unique-paths-iii) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1480-running-sum-of-1d-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1732-find-the-highest-altitude) |
@@ -139,6 +140,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0695-max-area-of-island](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0832-flipping-an-image) |
+| [0980-unique-paths-iii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0980-unique-paths-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -247,6 +249,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0078-subsets](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0257-binary-tree-paths) |
+| [0980-unique-paths-iii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -255,6 +258,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0832-flipping-an-image](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0832-flipping-an-image) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0943-find-the-shortest-superstring](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0943-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0980-unique-paths-iii) |
 ## String
 |  |
 | ------- |
@@ -513,6 +517,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0943-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0980-unique-paths-iii) |
 ## Algorithm X
 |  |
 | ------- |
