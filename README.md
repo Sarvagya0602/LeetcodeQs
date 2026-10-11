@@ -61,6 +61,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [1732-find-the-highest-altitude](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1732-find-the-highest-altitude) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3731-find-missing-elements) |
@@ -523,4 +524,8 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | ------- |
 | [0051-n-queens](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0052-n-queens-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
