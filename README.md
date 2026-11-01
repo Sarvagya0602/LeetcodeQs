@@ -63,6 +63,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [2574-left-and-right-sum-differences](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3875-construct-uniform-parity-array-i) |
@@ -142,6 +143,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0733-flood-fill](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0832-flipping-an-image) |
 | [0980-unique-paths-iii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0980-unique-paths-iii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -295,6 +297,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0886-possible-bipartition](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0886-possible-bipartition) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -314,6 +317,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0886-possible-bipartition) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1129-shortest-path-with-alternating-colors) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -323,6 +327,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0695-max-area-of-island](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0886-possible-bipartition) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
