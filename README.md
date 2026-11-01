@@ -67,6 +67,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3875-construct-uniform-parity-array-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3903-smallest-stable-index-i) |
 | [4020-elevator-requests-i](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/4020-elevator-requests-i) |
 ## Hash Table
@@ -144,6 +145,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0832-flipping-an-image](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0832-flipping-an-image) |
 | [0980-unique-paths-iii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0980-unique-paths-iii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
 | ------- |
@@ -339,6 +341,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0886-possible-bipartition](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0886-possible-bipartition) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Tree
 |  |
 | ------- |
