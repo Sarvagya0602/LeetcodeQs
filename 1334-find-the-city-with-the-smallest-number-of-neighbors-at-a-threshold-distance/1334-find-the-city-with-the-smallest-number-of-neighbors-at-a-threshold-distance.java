@@ -1,61 +1,41 @@
 class Solution {
+    final static int INF=Integer.MAX_VALUE;
     public int findTheCity(int n, int[][] edges, int distanceThreshold) {
-
-        int INF = 1_000_000_000;
-
-        int[][] dist = new int[n][n];
-
-        for (int i = 0; i < n; i++) {
-            Arrays.fill(dist[i], INF);
-            dist[i][i] = 0;
+        int[][] dm=new int[n][n];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(i==j) dm[i][j]=0;
+                else dm[i][j]=INF;
+            }
+        }
+        for(int i=0;i<edges.length;i++){
+            dm[edges[i][0]][edges[i][1]]=edges[i][2];
+            dm[edges[i][1]][edges[i][0]]=edges[i][2];
         }
 
-        for (int[] edge : edges) {
-            int u = edge[0];
-            int v = edge[1];
-            int w = edge[2];
-
-            dist[u][v] = w;
-            dist[v][u] = w;
-        }
-        
-        for (int via = 0; via < n; via++) {
-            for (int from = 0; from < n; from++) {
-                for (int to = 0; to < n; to++) {
-
-                    if (dist[from][via] != INF &&
-                        dist[via][to] != INF) {
-
-                        dist[from][to] = Math.min(
-                            dist[from][to],
-                            dist[from][via] + dist[via][to]
-                        );
+        for(int k=0;k<n;k++){
+            for(int i=0;i<n;i++){
+                    for(int j=0;j<n;j++){
+                        if(dm[i][k]!=INF && dm[k][j]!=INF){
+                            dm[i][j]=Math.min(dm[i][j],dm[i][k]+dm[k][j]);
+                        }
                     }
-                }
             }
         }
 
-        int answer = -1;
-        int minCount = Integer.MAX_VALUE;
-
-        for (int city = 0; city < n; city++) {
-            int count = 0;
-
-            for (int neighbor = 0; neighbor < n; neighbor++) {
-                if (city != neighbor &&
-                    dist[city][neighbor] <= distanceThreshold) {
-                    count++;
-                }
+        int result=-1,city=INF,sum=0;
+        
+        for(int i=0;i<n;i++){
+            sum=0;
+            for(int j=0;j<n;j++){
+                if(i!=j && dm[i][j]<=distanceThreshold) sum++;
             }
-
-            // <= is important because we want the larger city
-            // when counts are equal.
-            if (count <= minCount) {
-                minCount = count;
-                answer = city;
+            if(sum<=city){
+                city=sum;
+                result=i;
             }
         }
 
-        return answer;
+        return result;
     }
 }
