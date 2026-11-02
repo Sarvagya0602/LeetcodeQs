@@ -47,6 +47,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0435-non-overlapping-intervals](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0724-find-pivot-index) |
@@ -118,6 +119,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0189-rotate-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
