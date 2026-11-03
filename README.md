@@ -44,6 +44,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0240-search-a-2d-matrix-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -175,6 +176,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0509-fibonacci-number) |
@@ -311,6 +313,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0130-surrounded-regions](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0547-number-of-provinces) |
@@ -540,4 +543,12 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2778-sum-of-squares-of-special-elements) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
