@@ -56,6 +56,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0733-flood-fill](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0877-stone-game) |
 | [0943-find-the-shortest-superstring](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0943-find-the-shortest-superstring) |
 | [0980-unique-paths-iii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0980-unique-paths-iii) |
@@ -163,6 +164,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0646-maximum-length-of-pair-chain) |
+| [0860-lemonade-change](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0860-lemonade-change) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
