@@ -10,9 +10,9 @@ class Solution {
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
         int n=rooms.size();
         boolean[] visited=new boolean[n];
-        for(int i=0;i<n;i++){
-            visited[i]=false;
-        }
+        // for(int i=0;i<n;i++){
+        //     visited[i]=false;
+        // }
 
         visits(0,rooms,visited);
         boolean result=true;
