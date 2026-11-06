@@ -309,6 +309,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0743-network-delay-time](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0841-keys-and-rooms](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0886-possible-bipartition) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -329,6 +330,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0743-network-delay-time](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0841-keys-and-rooms](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0886-possible-bipartition) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1129-shortest-path-with-alternating-colors) |
@@ -350,6 +352,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0743-network-delay-time](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0841-keys-and-rooms](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0886-possible-bipartition) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1129-shortest-path-with-alternating-colors) |
