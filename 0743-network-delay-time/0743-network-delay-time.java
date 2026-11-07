@@ -1,56 +1,28 @@
 class Solution {
+    final static int INF=Integer.MAX_VALUE;
     public int networkDelayTime(int[][] times, int n, int k) {
-        List<int[]>[] graph = new ArrayList[n + 1];
-        for (int i = 1; i <= n; i++) {
-            graph[i] = new ArrayList<>();
+        int[] distances=new int[n];
+        int u=0,v=0,w=0;
+        for(int i=0;i<n;i++){
+            distances[i]=INF;
         }
-        for (int[] time : times) {
-            int u = time[0];
-            int v = time[1];
-            int w = time[2];
-
-            graph[u].add(new int[]{v, w});
-        }
-
-        int[] dist = new int[n + 1];
-        Arrays.fill(dist, Integer.MAX_VALUE);
-        dist[k] = 0;
-
-        PriorityQueue<int[]> pq =
-            new PriorityQueue<>((a, b) -> a[1] - b[1]);
-
-        pq.offer(new int[]{k, 0});
-
-        while (!pq.isEmpty()) {
-            int[] current = pq.poll();
-
-            int node = current[0];
-            int time = current[1];
-
-            // Ignore outdated entries
-            if (time > dist[node]) {
-                continue;
-            }
-
-            for (int[] edge : graph[node]) {
-                int next = edge[0];
-                int weight = edge[1];
-
-                int newTime = time + weight;
-
-                if (newTime < dist[next]) {
-                    dist[next] = newTime;
-                    pq.offer(new int[]{next, newTime});
-                }
+        distances[k-1]=0;
+        for(int i=0;i<n-1;i++){
+            for(int j=0;j<times.length;j++){
+                u=times[j][0]-1;
+                v=times[j][1]-1;
+                w=times[j][2];
+                if(distances[u]!=INF)
+                    distances[v]=Math.min(distances[v],distances[u]+w);
             }
         }
-        int answer = 0;
-        for (int i = 1; i <= n; i++) {
-            if (dist[i] == Integer.MAX_VALUE) {
-                return -1;
-            }
-            answer = Math.max(answer, dist[i]);
+        int result=Integer.MIN_VALUE;
+        for(int d:distances){
+            result=Math.max(result,d);
         }
-        return answer;
+
+        if(result==INF) return -1;
+        return result;
+        
     }
 }
