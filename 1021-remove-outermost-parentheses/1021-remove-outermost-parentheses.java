@@ -14,7 +14,7 @@ class Solution {
         }
         String result="";
         for(int i=0;i<n;i++){
-            if(depth[i]!=0) result+=s.charAt(i);
+            if(depth[i]!=0) result=result.concat(String.valueOf(s.charAt(i)));
         }
         return result;
     }
