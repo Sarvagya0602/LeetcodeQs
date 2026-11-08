@@ -62,6 +62,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0922-sort-array-by-parity-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0922-sort-array-by-parity-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0943-find-the-shortest-superstring) |
 | [0980-unique-paths-iii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0980-unique-paths-iii) |
+| [1200-minimum-absolute-difference](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1200-minimum-absolute-difference) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1480-running-sum-of-1d-array](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1732-find-the-highest-altitude) |
@@ -215,6 +216,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0646-maximum-length-of-pair-chain](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0646-maximum-length-of-pair-chain) |
 | [0905-sort-array-by-parity](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0922-sort-array-by-parity-ii) |
+| [1200-minimum-absolute-difference](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1200-minimum-absolute-difference) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [3731-find-missing-elements](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
