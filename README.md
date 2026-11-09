@@ -304,6 +304,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0079-word-search) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0199-binary-tree-right-side-view) |
@@ -326,6 +327,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0200-number-of-islands) |
@@ -373,6 +375,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0102-binary-tree-level-order-traversal](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0257-binary-tree-paths) |
@@ -386,6 +389,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0102-binary-tree-level-order-traversal](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0257-binary-tree-paths) |
