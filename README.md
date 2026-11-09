@@ -382,6 +382,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0404-sum-of-left-leaves](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -395,6 +396,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0257-binary-tree-paths](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [2236-root-equals-sum-of-children](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
