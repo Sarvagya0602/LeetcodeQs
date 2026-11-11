@@ -116,6 +116,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0832-flipping-an-image](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0922-sort-array-by-parity-ii) |
+| [2000-reverse-prefix-of-word](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2000-reverse-prefix-of-word) |
 ## Math
 |  |
 | ------- |
@@ -303,6 +304,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0680-valid-palindrome-ii](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0680-valid-palindrome-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0943-find-the-shortest-superstring) |
 | [1021-remove-outermost-parentheses](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1021-remove-outermost-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2000-reverse-prefix-of-word) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -448,6 +450,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0042-trapping-rain-water](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1021-remove-outermost-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2000-reverse-prefix-of-word) |
 ## Minimax
 |  |
 | ------- |
