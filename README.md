@@ -305,6 +305,7 @@ This is a collection of LeetCode questions to ace the coding interview! - Create
 | [0943-find-the-shortest-superstring](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/0943-find-the-shortest-superstring) |
 | [1021-remove-outermost-parentheses](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2000-reverse-prefix-of-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sarvagya0602/LeetcodeQs/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Depth-First Search
 |  |
 | ------- |
